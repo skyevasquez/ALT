@@ -18,7 +18,7 @@ import type * as files from "../files.js";
 /**
  * A utility for referencing Convex functions in your app's API.
  *
- * Usage for example:
+ * Usage:
  * ```js
  * const myFunctionReference = api.myModule.myFunction;
  * ```
